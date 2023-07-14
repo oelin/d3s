@@ -1,6 +1,6 @@
 # Daily Dose of Data Science (d3s)
 
-Get short summaries of data science topics straight to your terminal. d3s pulls from a list of over [5K topics](https://github.com/oelin/d3s-topics) in machine learning, statistics and probability theory. 
+Get short summaries of data science topics from your terminal. d3s pulls from a list of over [5K topics](https://github.com/oelin/d3s-topics) in machine learning, statistics and probability theory. 
 
 ## Installation
 
