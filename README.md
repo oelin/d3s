@@ -57,9 +57,9 @@ principal components, correlations, classifications) in datasets.
 ```
 
 
-## Coming Soon
+## Future
 
-* `.d3s` configuration file.
-* LLM integrations.
-* LaTeX formatting.
+* Configuration options.
+* LLM-generated summaries.
 * Topic-specific summaries.
+* Improved LaTeX rendering.
