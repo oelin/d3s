@@ -2,6 +2,7 @@
 
 Get short summaries of data science topics to your terminal. d3s pulls from a list of over [5K topics](https://github.com/oelin/d3s-topics) in machine learning, statistics and probability theory. 
 
+
 ## Installation
 
 You can install d3s with pip.
@@ -9,6 +10,7 @@ You can install d3s with pip.
 ```sh
 pip install d3s
 ```
+
 
 ## Usage
 
@@ -23,6 +25,7 @@ To get summaries every time you open your terminal, you could (for example), app
 ```sh
 echo d3s >> ~/.bashrc
 ```
+
 
 ## Examples
 
