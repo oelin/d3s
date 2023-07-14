@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "d3s"
+version = "0.1.0"
+description = ""
+authors = ["Kore"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+pyquery = "^2.0.0"
+colorama = "^0.4.6"
+titlecase = "^2.4"
+
+[tool.poetry.scripts]
+d3s = "d3s.__init__:main"
+
+
+[tool.poetry.group.dev.dependencies]
+reindent = "^3.5.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
