@@ -62,5 +62,5 @@ principal components, correlations, classifications) in datasets.
 * Configuration options.
 * LLM-generated summaries.
 * Improved LaTeX rendering.
-* More refined topic list.
+* Refined topic lists.
 * Code refactoring.
