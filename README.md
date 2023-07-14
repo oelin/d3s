@@ -57,9 +57,10 @@ principal components, correlations, classifications) in datasets.
 ```
 
 
-## Future
+## Planned
 
 * Configuration options.
 * LLM-generated summaries.
 * Improved LaTeX rendering.
 * More refined topic list.
+* Code refactoring.
