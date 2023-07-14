@@ -23,7 +23,7 @@ d3s
 To get summaries every time you open your terminal, you could (for example), append `d3s` to your `~/.bashrc` file.
 
 ```sh
-echo d3s >> ~/.bashrc
+echo d3s | head -6 >> ~/.bashrc
 ```
 
 
